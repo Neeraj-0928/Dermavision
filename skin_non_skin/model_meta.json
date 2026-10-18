@@ -1,0 +1,8 @@
+{
+  "model_version": "3.0",
+  "skin_min": 0.62,
+  "nonskin_max": 0.38,
+  "min_winning_confidence": 0.6,
+  "reference_f1_threshold": 0.34000000000000014,
+  "notes": "Hue/saturation aug disabled. Luminance-only lighting norm. Abstain band enabled."
+}

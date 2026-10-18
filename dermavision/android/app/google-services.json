@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "234751881136",
+    "project_id": "dermavision-2eb4c",
+    "storage_bucket": "dermavision-2eb4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234751881136:android:0abba6a355f57a40e9f075",
+        "android_client_info": {
+          "package_name": "com.example.dermavision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234751881136-8l2afj5kjtid17i1sp20qq4f2jubskce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dermavision",
+            "certificate_hash": "4d6ecb37ac9d3a5a8be7d368d9d4dba766340c2e"
+          }
+        },
+        {
+          "client_id": "234751881136-esg2fe15glm2ipvkstp0dkv7ga9aa670.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKOcgQnJrbS0TCHe6uPHpMGVkIpzhYwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234751881136-esg2fe15glm2ipvkstp0dkv7ga9aa670.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+# Miscellaneous / OS
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.sixth/
+
+# IntelliJ / Android Studio / VS Code
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# Flutter / Dart / Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+**/.dart_tool/
+.flutter-plugins-dependencies
+**/.flutter-plugins-dependencies
+.pub-cache/
+**/.pub-cache/
+.pub/
+**/.pub/
+build/
+**/build/
+coverage/
+**/coverage/
+ephemeral/
+**/ephemeral/
+.plugin_symlinks/
+**/.plugin_symlinks/
+
+# Android build artifacts
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/.gradle/
+**/local.properties
+
+# Symbolication / Obfuscation
+app.*.symbols
+app.*.map.json
+
+# Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+.env
+env/
+venv/
+.pytest_cache/
+
+# Datasets (Excluding large raw training image directories)
+skin_non_skin/skin/
+skin_non_skin/non_skin/
+**/Dataset/
+**/dataset/
+*.zip
+*.tar.gz
